@@ -1,0 +1,8 @@
+.product__order{
+    width: 25vw;
+    text-align: center;
+    border: 2px solid red;
+    margin: auto;
+    margin-top: 60px;
+    height: 50vh;
+}

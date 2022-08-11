@@ -1,0 +1,10 @@
+.single__page{
+    display: flex;
+    align-items: center;
+    width:99vw ;
+    border: 2px solid whitesmoke;
+    height: 80vh;
+    gap:20%;
+    padding-left: 60px;
+}
+

@@ -1,0 +1,23 @@
+.nav__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(233, 224, 224);
+    height: 10vh;
+    font-style: italic;
+    }
+
+    .links{
+        width: 50%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none;
+        gap: 200px;
+        font-size: 22px;
+    }
+    li{
+        text-decoration: none;
+        font-weight: 650;
+    }
+ 
