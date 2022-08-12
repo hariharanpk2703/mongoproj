@@ -7,7 +7,7 @@ const Navigation = () => {
       <div className='nav__container'>
         <div >
           <ul className='links'>
-            <li><Link to="/home" style={{ textDecoration: 'none', fontSize:'30px' }} >Bella</Link> </li>
+            <li><Link to="/home" style={{ textDecoration: 'none', fontSize:'30px' }} >Money Heist</Link> </li>
             <li><Link to="/home" style={{ textDecoration: 'none', color: 'black' }} >HOME</Link> </li>
             <li><Link to="/fav" style={{ textDecoration: 'none', color: 'black' }} >Favorites</Link> </li>
             <li><Link to="/order" style={{ textDecoration: 'none', color: 'black' }} >Order</Link> </li>
